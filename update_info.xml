@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UpdateConfig>
-  <Version>30.0.2.0</Version>
+  <Version>19.0.2.0</Version>
   <AppName>Mazaya_Max</AppName>
   <DownloadUrl>https://github.com/eng0youssef/MazayaAutoUpdater/releases/download/V1.0/Setup.Mazaya_Max.15-12-2025.001.exe</DownloadUrl>
 
 </UpdateConfig>
+
 
