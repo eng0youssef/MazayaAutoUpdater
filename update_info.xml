@@ -5,10 +5,12 @@
   <DownloadUrl>https://github.com/eng0youssef/MazayaAutoUpdater/releases/download/V1.0/Setup.Mazaya_Max.15-12-2025.001.exe</DownloadUrl>
   <MigrationScripts>
     <Script>https://api.github.com/repos/eng0youssef/MazayaAutoUpdater/contents/script-25-12-2025.sql</Script>
+    <Script>https://api.github.com/repos/eng0youssef/MazayaAutoUpdater/contents/script-31-12-2025.sql</Script>
     
     
   </MigrationScripts>
 </UpdateConfig>
+
 
 
 
