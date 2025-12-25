@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UpdateConfig>
-  <Version>30.3.2025.1</Version>
+  <Version>31.3.2025.1</Version>
   <AppName>Mazaya_Max</AppName>
   <DownloadUrl>https://github.com/eng0youssef/MazayaAutoUpdater/releases/download/V1.0/Setup.Mazaya_Max.15-12-2025.001.exe</DownloadUrl>
   <MigrationScripts>
@@ -10,6 +10,7 @@
     
   </MigrationScripts>
 </UpdateConfig>
+
 
 
 
