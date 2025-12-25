@@ -6,9 +6,10 @@
   <MigrationScripts>
     <Script>https://api.github.com/repos/eng0youssef/MazayaAutoUpdater/contents/script-15-12-2025.sql</Script>
     <Script>https://api.github.com/repos/eng0youssef/MazayaAutoUpdater/contents/script-20-12-2025.sql</Script>
-    <Script>https://api.github.com/repos/eng0youssef/MazayaAutoUpdater/contents/script-25-12-2025.sql</Script>
+    
   </MigrationScripts>
 </UpdateConfig>
+
 
 
 
