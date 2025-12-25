@@ -4,9 +4,10 @@
   <AppName>Mazaya_Max</AppName>
   <DownloadUrl>https://github.com/eng0youssef/MazayaAutoUpdater/releases/download/V1.0/Setup.Mazaya_Max.15-12-2025.001.exe</DownloadUrl>
   <MigrationScripts>
-    <Script>https://api.github.com/repos/eng0youssef/MazayaAutoUpdater/contents/script.sql</Script>
+    <Script>https://api.github.com/repos/eng0youssef/MazayaAutoUpdater/contents/script-15-12-2025.sql</Script>
   </MigrationScripts>
 </UpdateConfig>
+
 
 
 
